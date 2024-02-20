@@ -2704,3 +2704,4 @@ let tracks = {
 
 
 displayTracks(tracks);
+console.log(tracks);
